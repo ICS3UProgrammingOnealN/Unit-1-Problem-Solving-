@@ -1,6 +1,6 @@
 ﻿namespace CircumfOneal
 {
-    partial class Form1
+    partial class CircumForm
     {
         /// <summary>
         /// Required designer variable.

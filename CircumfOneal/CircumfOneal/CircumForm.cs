@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CircumfOneal
 {
-    public partial class Form1 : Form
+    public partial class CircumForm : Form
     {
-        public Form1()
+        public CircumForm()
         {
             InitializeComponent();
         }
