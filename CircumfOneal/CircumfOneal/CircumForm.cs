@@ -16,5 +16,10 @@ namespace CircumfOneal
         {
             InitializeComponent();
         }
+
+        private void btnCalculate_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
