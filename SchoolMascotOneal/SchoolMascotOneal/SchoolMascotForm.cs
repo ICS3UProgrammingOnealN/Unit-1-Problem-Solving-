@@ -21,5 +21,26 @@ namespace SchoolMascotOneal
         {
 
         }
+
+        private void mniManCity_Click(object sender, EventArgs e)
+        {
+            lblTeam.Text = "Man City";
+        }
+
+        private void mniBarcelona_Click(object sender, EventArgs e)
+        {
+            lblTeam.Text = "Barcelona";
+
+        }
+
+        private void mniWolvesFc_Click(object sender, EventArgs e)
+        {
+            lblTeam.Text = "Wolves fc";
+        }
+
+        private void mniArsenal_Click(object sender, EventArgs e)
+        {
+            lblTeam.Text = "Arsenal";
+        }
     }
 }

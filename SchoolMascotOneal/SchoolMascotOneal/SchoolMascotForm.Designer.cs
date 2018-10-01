@@ -34,7 +34,7 @@
             this.mniBarcelona = new System.Windows.Forms.ToolStripMenuItem();
             this.mniWolvesFc = new System.Windows.Forms.ToolStripMenuItem();
             this.mniArsenal = new System.Windows.Forms.ToolStripMenuItem();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblTeam = new System.Windows.Forms.Label();
             this.mnuTeams.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -64,41 +64,45 @@
             this.mniManCity.Name = "mniManCity";
             this.mniManCity.Size = new System.Drawing.Size(152, 22);
             this.mniManCity.Text = "Man City";
+            this.mniManCity.Click += new System.EventHandler(this.mniManCity_Click);
             // 
             // mniBarcelona
             // 
             this.mniBarcelona.Name = "mniBarcelona";
             this.mniBarcelona.Size = new System.Drawing.Size(152, 22);
             this.mniBarcelona.Text = "Barcelona";
+            this.mniBarcelona.Click += new System.EventHandler(this.mniBarcelona_Click);
             // 
             // mniWolvesFc
             // 
             this.mniWolvesFc.Name = "mniWolvesFc";
             this.mniWolvesFc.Size = new System.Drawing.Size(152, 22);
             this.mniWolvesFc.Text = "Wolves fc";
+            this.mniWolvesFc.Click += new System.EventHandler(this.mniWolvesFc_Click);
             // 
             // mniArsenal
             // 
             this.mniArsenal.Name = "mniArsenal";
             this.mniArsenal.Size = new System.Drawing.Size(152, 22);
             this.mniArsenal.Text = "Arsenal";
+            this.mniArsenal.Click += new System.EventHandler(this.mniArsenal_Click);
             // 
-            // label1
+            // lblTeam
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(74, 109);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(121, 31);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Man City";
+            this.lblTeam.AutoSize = true;
+            this.lblTeam.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTeam.Location = new System.Drawing.Point(74, 109);
+            this.lblTeam.Name = "lblTeam";
+            this.lblTeam.Size = new System.Drawing.Size(121, 31);
+            this.lblTeam.TabIndex = 1;
+            this.lblTeam.Text = "Man City";
             // 
             // SchoolMascotForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblTeam);
             this.Controls.Add(this.mnuTeams);
             this.Name = "SchoolMascotForm";
             this.Text = "Man City";
@@ -117,7 +121,7 @@
         private System.Windows.Forms.ToolStripMenuItem mniBarcelona;
         private System.Windows.Forms.ToolStripMenuItem mniWolvesFc;
         private System.Windows.Forms.ToolStripMenuItem mniArsenal;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblTeam;
     }
 }
 
