@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TopDownDesign", "TopDownDesign\TopDownDesign\TopDownDesign.shproj", "{37339D0D-B8D0-4AA4-81EB-D1C423E91927}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TopDownDesign\TopDownDesign\TopDownDesign.projitems*{37339d0d-b8d0-4aa4-81eb-d1c423e91927}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

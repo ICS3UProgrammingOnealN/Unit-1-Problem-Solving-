@@ -7,3 +7,12 @@ N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Introduction\AreaAndPerimeterOneal\AreaAndPerimeterOneal\bin\Debug\AreaAndPerimeterOneal.pdb
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Introduction\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.exe
 N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Introduction\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\bin\Debug\AreaAndPerimeterOneal.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\bin\Debug\AreaAndPerimeterOneal.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\bin\Debug\AreaAndPerimeterOneal.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.frmAreaPerimeter.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Nnah, Oneal Ikechukwu (s450723)\Unit 1 (Problem Solving)\AreaAndPerimeterOneal\AreaAndPerimeterOneal\obj\Debug\AreaAndPerimeterOneal.pdb

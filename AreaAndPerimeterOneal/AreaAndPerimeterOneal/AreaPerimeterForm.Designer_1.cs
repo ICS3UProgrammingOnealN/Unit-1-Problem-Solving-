@@ -144,7 +144,6 @@
             this.lblAnswerPerimeter.Size = new System.Drawing.Size(35, 13);
             this.lblAnswerPerimeter.TabIndex = 9;
             this.lblAnswerPerimeter.Text = "label1";
-            this.lblAnswerPerimeter.Click += new System.EventHandler(this.lblAnswerPerimeter_Click);
             // 
             // lblAnswerArea
             // 

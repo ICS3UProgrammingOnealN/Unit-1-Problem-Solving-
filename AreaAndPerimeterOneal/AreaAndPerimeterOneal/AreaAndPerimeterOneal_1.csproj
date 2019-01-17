@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AACDE3A3-2B93-488D-AEE9-D6206DF9C282}</ProjectGuid>
+    <ProjectGuid>{2300A31F-3932-4823-B580-9DB3171382C8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PizzaCostOneal</RootNamespace>
-    <AssemblyName>PizzaCostOneal</AssemblyName>
+    <RootNamespace>AreaAndPerimeterOneal</RootNamespace>
+    <AssemblyName>AreaAndPerimeterOneal</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,16 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PizzaCostForm.cs">
+    <Compile Include="AreaPerimeterForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PizzaCostForm.Designer.cs">
-      <DependentUpon>PizzaCostForm.cs</DependentUpon>
+    <Compile Include="AreaPerimeterForm.Designer.cs">
+      <DependentUpon>AreaPerimeterForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="PizzaCost.cs" />
+    <Compile Include="AreaPerimeter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="PizzaCostForm.resx">
-      <DependentUpon>PizzaCostForm.cs</DependentUpon>
+    <EmbeddedResource Include="AreaPerimeterForm.resx">
+      <DependentUpon>AreaPerimeterForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

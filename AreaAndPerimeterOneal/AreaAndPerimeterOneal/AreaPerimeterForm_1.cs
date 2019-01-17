@@ -49,10 +49,5 @@ namespace AreaAndPerimeterOneal
             this.lblAnswerPerimeter.Hide();
             this.lblAnswerArea.Hide();
         }
-
-        private void lblAnswerPerimeter_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
